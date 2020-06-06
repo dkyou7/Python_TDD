@@ -4,7 +4,7 @@ chromedriver==2.24.1
 colorama==0.4.3
 configparser==5.0.0
 crayons==0.3.0
-Django==2.1.5
+Django==2.2.13
 idna==2.9
 pytz==2019.3
 requests==2.23.0
